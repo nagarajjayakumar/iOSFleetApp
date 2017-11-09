@@ -1,0 +1,5 @@
+Hortonworks Dataflow iOS Site-to-Site Library
+Copyright 2011-2017 Hortonworks Inc. All Rights Reserved
+
+This product includes works from the Apache NiFi project under Apache Software License V2:
+  This is a port of the Apache NiFi site-to-site client to work in the Apple Cocoa environment.

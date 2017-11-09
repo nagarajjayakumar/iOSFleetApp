@@ -1,0 +1,15 @@
+# XCode combines build rules with project files.
+# The recommended practice seems to be to include project and 
+# workspace files, but ignore user data and settings.
+# For more info, checkout:
+# https://gist.github.com/adamgit/3786883
+# https://stackoverflow.com/questions/18939421/what-should-xcode-6-gitignore-file-include
+
+# Mac OS 
+.DS_Store
+
+# XCode User Data Dir
+xcuserdata/
+
+# Carthage
+Carthage/Build
